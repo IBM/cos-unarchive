@@ -1,0 +1,6 @@
+tqdm==4.50.2
+ibm-cos-sdk==2.13.4
+ibm-cos-sdk-core==2.13.4
+ibm-cos-sdk-s3transfer==2.13.4
+ibm-cos-sdk-config==2.0.3
+colorama==0.4.6
